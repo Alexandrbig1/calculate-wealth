@@ -12,7 +12,7 @@ Project to teach high order array methods and DOM manipulation
 - Use reduce() to add all wealth
 - High order array methods and DOM manipulation
 
-### I have worked on this project from [Udemy learning courses](https://www.udemy.com/)
+### I have worked on this project from [Udemy learning courses](https://www.udemy.com/) <img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Logo.png" alt="HTML5" height="40" />
 
 ### Languages and Tools:
 <div align="center">  
