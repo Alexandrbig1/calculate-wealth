@@ -1,4 +1,4 @@
-# Calculate Wealth(DOM Array Methods)
+# Calculate Wealth(DOM Array Methods) <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
 Project to teach high order array methods and DOM manipulation
 
